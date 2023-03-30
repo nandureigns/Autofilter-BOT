@@ -13,7 +13,7 @@ class script(object):
 - 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://t.me/SHProSearchbot>𝙎𝙃𝙋𝙧𝙤𝙎𝙚𝙖𝙧𝙘𝙝𝙗𝙤𝙩</a>
 
 <b>DEV:</b>
-- 𝙳𝚎𝚟 1<a href=https://t.me/SH_OTT>SH_OTT</a>
+- 𝙳𝚎𝚟 1<a href=https://t.me/SH_OTT>SH OTT</a>
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
